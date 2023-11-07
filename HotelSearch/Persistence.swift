@@ -2,7 +2,7 @@
 //  Persistence.swift
 //  HotelSearch
 //
-//  Created by Khakim on 07/11/23.
+//  Created by Rezimxerr on 07/11/23.
 //
 
 import CoreData
